@@ -1,6 +1,6 @@
 {
-  "remoteServiceBaseUrl": "http://localhost:21021",
-  "appBaseUrl": "http://localhost:4200",
+  "remoteServiceBaseUrl": "https://queuetest-venus-api.herokuapp.com",
+  "appBaseUrl": "https://queuetest-venus-app.herokuapp.com",
   "localeMappings": [
     {
       "from": "pt-BR",
